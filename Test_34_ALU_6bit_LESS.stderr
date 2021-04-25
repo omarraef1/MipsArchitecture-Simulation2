@@ -1,0 +1,2 @@
+Error: Could not find or load main class Test_34_ALU_6bit_LESS
+Caused by: java.lang.ClassNotFoundException: Test_34_ALU_6bit_LESS

@@ -1,0 +1,2 @@
+Error: Could not find or load main class Test_20_ALUElement_AND
+Caused by: java.lang.ClassNotFoundException: Test_20_ALUElement_AND

@@ -1,0 +1,2 @@
+Error: Could not find or load main class Test_30_ALU_32bit_AND
+Caused by: java.lang.ClassNotFoundException: Test_30_ALU_32bit_AND
